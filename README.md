@@ -24,3 +24,7 @@ Use **Reset demo** in the sidebar or mobile navigation to clear the current gues
 ## Validation and deployment
 
 Run `pnpm lint` and `pnpm build`. Deploy to Vercel and add the two `NEXT_PUBLIC_SUPABASE_*` variables in the project settings.
+
+## Engineering standards
+
+See [`AGENTS.md`](AGENTS.md) for the shared engineering, accessibility, Supabase-safety, and visual-system standards used across this portfolio.
